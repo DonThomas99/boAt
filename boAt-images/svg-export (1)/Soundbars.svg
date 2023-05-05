@@ -1,0 +1,22 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <g id="Bluethooth_Speakers" data-name="Bluethooth Speakers" transform="translate(2377 2800)">
+    <rect id="Rectangle_114165" data-name="Rectangle 114165" width="48" height="48" transform="translate(-2377 -2800)" fill="#fff" opacity="0"/>
+    <g id="Group_333622" data-name="Group 333622" transform="translate(-2366 -2798)">
+      <rect id="Rectangle_113747" data-name="Rectangle 113747" width="25.715" height="43.111" rx="4" fill="#b2b9bf"/>
+      <g id="Group_333049" data-name="Group 333049" transform="translate(3.782 18.908)">
+        <circle id="Ellipse_16345" data-name="Ellipse 16345" cx="9.076" cy="9.076" r="9.076" fill="#1a2024"/>
+        <g id="Ellipse_16346" data-name="Ellipse 16346" transform="translate(2.269 2.269)" fill="none" stroke="#b2b9bf" stroke-width="2">
+          <circle cx="6.807" cy="6.807" r="6.807" stroke="none"/>
+          <circle cx="6.807" cy="6.807" r="5.807" fill="none"/>
+        </g>
+      </g>
+      <g id="Group_333050" data-name="Group 333050" transform="translate(6.807 3.782)">
+        <circle id="Ellipse_16347" data-name="Ellipse 16347" cx="6.051" cy="6.051" r="6.051" transform="translate(0)" fill="#1a2024"/>
+        <g id="Ellipse_16348" data-name="Ellipse 16348" transform="translate(1.513 1.513)" fill="none" stroke="#b2b9bf" stroke-width="2">
+          <circle cx="4.538" cy="4.538" r="4.538" stroke="none"/>
+          <circle cx="4.538" cy="4.538" r="3.538" fill="none"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

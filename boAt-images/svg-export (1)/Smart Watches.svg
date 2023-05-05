@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_113745" data-name="Rectangle 113745" width="19.954" height="21.684" fill="#1a2024"/>
+    </clipPath>
+  </defs>
+  <g id="Smart_Watches" data-name="Smart Watches" transform="translate(2377 2999)">
+    <rect id="Rectangle_114162" data-name="Rectangle 114162" width="48" height="48" transform="translate(-2377 -2999)" fill="#fff" opacity="0"/>
+    <g id="Group_333614" data-name="Group 333614" transform="translate(-2363.792 -2991)">
+      <path id="Path_340706" data-name="Path 340706" d="M196.374,67.155h9.811v5.723a2.453,2.453,0,0,1-2.452,2.452h-4.906a2.453,2.453,0,0,1-2.452-2.452Z" transform="translate(-190.44 -42.628)" fill="#b2b9bf" fill-rule="evenodd"/>
+      <path id="Path_340707" data-name="Path 340707" d="M198.827,37.091h4.906a2.453,2.453,0,0,1,2.452,2.452v5.723h-9.81V39.543a2.453,2.453,0,0,1,2.452-2.452" transform="translate(-190.439 -37.091)" fill="#b2b9bf" fill-rule="evenodd"/>
+      <path id="Path_340708" data-name="Path 340708" d="M205.334,66.255H194.547a5.462,5.462,0,0,1-5.447-5.447V48.141a5.462,5.462,0,0,1,5.447-5.447h10.788a5.462,5.462,0,0,1,5.447,5.447V60.809a5.462,5.462,0,0,1-5.447,5.447" transform="translate(-189.1 -38.123)" fill="#1a2024"/>
+      <g id="Group_333046" data-name="Group 333046" transform="translate(0.863 5.509)" opacity="0.3" style="isolation: isolate">
+        <g id="Group_333045" data-name="Group 333045">
+          <g id="Group_333044" data-name="Group 333044" clip-path="url(#clip-path)">
+            <path id="Path_340709" data-name="Path 340709" d="M204.665,65.528h-9.06a5.462,5.462,0,0,1-5.447-5.447V49.291a5.462,5.462,0,0,1,5.447-5.447h9.06a5.462,5.462,0,0,1,5.447,5.447V60.082a5.462,5.462,0,0,1-5.447,5.447" transform="translate(-190.158 -43.844)" fill="#1a2024"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

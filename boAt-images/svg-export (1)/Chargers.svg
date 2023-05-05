@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_113450" data-name="Rectangle 113450" width="20.035" height="32.703" fill="#c9cbcc"/>
+    </clipPath>
+  </defs>
+  <g id="boAt_Chargers" data-name="boAt Chargers" transform="translate(1922 3064)">
+    <rect id="Rectangle_114174" data-name="Rectangle 114174" width="48" height="48" transform="translate(-1922 -3064)" fill="#fff" opacity="0"/>
+    <g id="Group_333641" data-name="Group 333641" transform="translate(-1908 -3056)">
+      <g id="Group_332190" data-name="Group 332190">
+        <g id="Group_332189" data-name="Group 332189" clip-path="url(#clip-path)">
+          <path id="Path_337539" data-name="Path 337539" d="M18.334,49.317H1.7a1.7,1.7,0,0,1-1.7-1.7V27.466a1.7,1.7,0,0,1,1.7-1.7H18.334a1.7,1.7,0,0,1,1.7,1.7v20.15a1.7,1.7,0,0,1-1.7,1.7" transform="translate(0 -16.614)" fill="#b2b9bf"/>
+          <path id="Path_337540" data-name="Path 337540" d="M15.169,9.151H12.411V1.379a1.379,1.379,0,0,1,2.758,0Z" transform="translate(-8.003 0)" fill="#1a2024"/>
+          <path id="Path_337541" data-name="Path 337541" d="M38.346,9.151H35.588V1.379a1.379,1.379,0,1,1,2.758,0Z" transform="translate(-22.948 0)" fill="#1a2024"/>
+        </g>
+      </g>
+      <path id="Path_337627" data-name="Path 337627" d="M599.258,134.394l.927-1.8h-6.3l.958,1.8Zm-.619-3.133-1.578-4.336-1.944,5.5Z" transform="translate(-587.018 -110.574)" fill="#1a2024" opacity="0.61"/>
+    </g>
+  </g>
+</svg>

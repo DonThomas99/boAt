@@ -1,0 +1,176 @@
+*{
+    font-family: 'Metrophobic', sans-serif;
+}
+.headings
+{ 
+    display: flex;
+    flex-direction: row;
+}
+
+.middle-section
+{
+    display: flex;
+    
+    justify-content: end;
+}
+.searchbox
+{
+    background-color: rgb(254, 245, 245);
+    font-size: 1.25rem;
+    margin-left: .75rem;    
+   
+}
+.collection-images
+{
+    display: flex;
+    justify-content: space-between;
+}
+
+.card-image
+{
+    width: .625rem;
+}
+
+
+.navitems{
+    color: black;
+  text-decoration: none;
+ 
+  border-bottom: .125rem solid transparent
+}
+
+.navitems:hover{
+    font-weight: bolder;
+   
+    text-decoration-color: orange;
+    text-decoration-thickness: .125rem;
+    text-decoration-line: underline;
+    
+}
+
+
+
+
+.inputsearch{
+    align-items:center ;
+    border:1px white;
+    border-radius:1.4rem;
+    width:15rem;
+    background-color: rgba(137, 134, 134, 0.278);
+    height:2.3rem;
+    padding-left: 1rem;
+  margin-right: 2rem;
+}
+.inputsearch1{
+    background-color: rgba(247, 240, 240, 0.278);
+    border:0.06rem white;
+}
+
+
+.divis
+{
+position: relative;
+
+}
+.summer
+{   color:white;
+    font-size:2em ;
+    position:absolute;
+    top:2rem;
+    
+} 
+
+.card {
+    border: 0;
+    
+  }
+
+.sum-sale img
+{
+    width: 50%;
+}
+
+
+.bob-image img
+{
+    border-radius:1.5rem;
+}
+
+.footer-2
+{
+    background-color:  #EFF4F7;
+}
+.footer-2 ul
+{
+    list-style:none;
+   
+
+}
+.privacy-terms
+{
+    color: #a7afb7;
+}
+.copyright
+{
+    
+    cursor: pointer;
+    color: #a7afb7;
+    
+    
+}
+
+.footer
+{
+    background-color: #e7f0f5; 
+    text-align: center;
+}
+@media (max-width: 48rem) {
+    .footer-2 {
+      flex-direction: column;
+    }
+    
+    .email, .shop, .shop-1, .help, .company {
+      margin: 0;
+      padding: 1rem;
+    }
+
+    .cards{
+        width:2rem;
+        font-size: small;
+    }
+  }
+  
+
+  @media only screen and (max-width: 600px) {
+    .summer{
+        font-size: .5rem;
+        top: .7rem;
+    }
+  }
+
+  .footer-2 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .email, .shop, .shop-1, .help, .company {
+    margin: 20px;
+  }
+  
+  @media only screen and (max-width: 768px) {
+    .email, .shop, .shop-1, .help, .company {
+      margin: 0;
+      text-align: center;
+    }
+    
+    .shop, .shop-1, .help, .company {
+      margin-top: 30px;
+    }
+    
+    ul {
+      list-style: none;
+      padding-left: 0;
+    }
+  }
+  
